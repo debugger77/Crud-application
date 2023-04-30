@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Virat Kohli",
+      "username": "viratkohli",
+      "email": "virat@gmail.com",
+      "phone": "1234567899",
+      "id": 2
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "username": "pankaj",
+      "email": "pankaj@gmail.com",
+      "phone": "7685947689",
+      "id": 3
+    }
+  ]
+}
